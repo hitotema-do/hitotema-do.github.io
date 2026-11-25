@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hitotema-do.github.io/gominavi/sitemap.xml
+Sitemap: https://hitotema-do.github.io/hoikuen-map/sitemap.xml
